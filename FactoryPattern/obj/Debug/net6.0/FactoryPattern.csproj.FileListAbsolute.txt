@@ -1,0 +1,15 @@
+/Users/jordan/repo/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern
+/Users/jordan/repo/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.deps.json
+/Users/jordan/repo/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.runtimeconfig.json
+/Users/jordan/repo/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.dll
+/Users/jordan/repo/Factory-Pattern/FactoryPattern/bin/Debug/net6.0/FactoryPattern.pdb
+/Users/jordan/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.AssemblyReference.cache
+/Users/jordan/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordan/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/jordan/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.AssemblyInfo.cs
+/Users/jordan/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/jordan/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.dll
+/Users/jordan/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/refint/FactoryPattern.dll
+/Users/jordan/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.pdb
+/Users/jordan/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/FactoryPattern.genruntimeconfig.cache
+/Users/jordan/repo/Factory-Pattern/FactoryPattern/obj/Debug/net6.0/ref/FactoryPattern.dll
